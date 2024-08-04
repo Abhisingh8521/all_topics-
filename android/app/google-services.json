@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "736381078339",
+    "project_id": "flutter-tests-bbe7e",
+    "storage_bucket": "flutter-tests-bbe7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:9f01b64f625fe15bd7bdf6",
+        "android_client_info": {
+          "package_name": "com.edugaon.all_topics"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:f70778cd4a584db4d7bdf6",
+        "android_client_info": {
+          "package_name": "com.edugaon.flutter_test_one"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736381078339:android:f85595f9dfd3ca30d7bdf6",
+        "android_client_info": {
+          "package_name": "com.edugaon.shoppie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVD0IvoEhkr7iPFiIf4nxmf-e5mRDfqW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
